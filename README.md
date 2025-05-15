@@ -1,4 +1,5 @@
 <h1 align="center">Oi, eu sou o Goku..</h1>
+![Descrição do GIF](goku.gif)
 <h2>Brincadeira hehehe sou Lucas, e agora você vai saber um pouco mais sobre mim e sobre meus projetos.</h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
