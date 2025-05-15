@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Goku..</h1>
-![2e7d9d3d75cb8d9bd86433a623e301cf](https://github.com/user-attachments/assets/9ea18675-2dc3-4af3-95ab-2758e05cb41a)
+![Descrição do GIF](C:\Users\Lucas\Documents\assets_github\goku.gif)
 <h2>Brincadeira hehehe sou Lucas, e agora você vai saber um pouco mais sobre mim e sobre meus projetos.</h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
