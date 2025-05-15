@@ -1,4 +1,6 @@
-<h1 align="center">Oi 👋, eu sou o Goku!</h1>
+<h1 align="center">Oi, eu sou o Goku!</h1>
+![goku](https://github.com/user-attachments/assets/b87c71bf-823b-49c2-9523-d3482469c6e7)
+
 <h2>Bom, eu não sou mais você acreditou né hahahaha, bom agora você vai descobrir mais sobre mim e sobre meus projetos.</h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
