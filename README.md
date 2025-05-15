@@ -2,17 +2,15 @@
 <h2>Bom, eu não sou mais você acreditou né hahahaha, bom agora você vai descobrir mais sobre mim e sobre meus projetos.</h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
-- 🔭 Atualmente trabalho com BI e Análise de Dados. **Projeto em Construção**
+- 🔭 Atualmente trabalho com BI e Análise de Dados. 
 
-- 🌱 Atualmente estou focado nos estudos de todo o universo dos dados. **Python, SQL, Excel, PySpark, PowerBI, Docker, Figma e etc**
-
-- 👨‍💻 Você pode conhecer meu portfólio de projetos [https://www.linkedin.com/in/lucas-dev-lopes/](https://www.linkedin.com/in/lucas-dev-lopes/)
+- 🌱 Meu foco está totalmente voltado para os estudos do universo de dados, com ênfase em Python, SQL, Excel, PySpark, Power BI, Docker, Figma, entre outras ferramentas.
 
 - 💬 Sobre mim. Atuo como estagiário de BI, responsável por processos de ETL usando SQL, Python e Excel para garantir dados confiáveis. Desenvolvo dashboards interativos no Power BI, colaborando com a equipe para definir KPIs e criar visualizações claras que transformam dados em insights para decisões estratégicas.
 
-- 📫 Como me encontrar? **Lucas.Lopes_5@hotmail.com**
-
 - 📄 Saiba mais um pouco sobre minhas experiências pelo LinkedIn [https://www.linkedin.com/in/lucas-dev-lopes/](https://www.linkedin.com/in/lucas-dev-lopes/)
+
+- 📫 Como me encontrar? **Lucas.Lopes_5@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
