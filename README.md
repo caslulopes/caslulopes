@@ -1,4 +1,5 @@
-<h1 align="center">Oi 👋, eu sou Lucas Lopes</h1>
+<h1 align="center">Oi, eu sou o Goku.. brincadeira hehehe sou Lucas</h1>
+<h2>E agora você vai saber um pouco mais sobre mim e sobre meus projetos.<h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
 - 🔭 Atualmente trabalho com BI e Análise de Dados. **Projeto em Construção**
