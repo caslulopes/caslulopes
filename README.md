@@ -8,7 +8,7 @@
 
 - 👨‍💻 Você pode conhecer meu portfólio de projetos [https://www.linkedin.com/in/lucas-dev-lopes/](https://www.linkedin.com/in/lucas-dev-lopes/)
 
-- 💬 Pergunte algo sobre mim. **Atualmente trabalho como estagiário de BI, sou responsável por processos de ETL (extração realizada, transformação e carga) utilizando SQL, Python e Excel, com o objetivo de tratar e consolidar dados, garantindo a confiabilidade das informações. Além disso, participei ativamente do desenvolvimento de dashboards interativos no Power BI, trabalhando em conjunto com a equipe para identificar os melhores KPIs (Key Performance Indicators) e construir uma narrativa de dados eficaz. Isso garante que as visualizações não sejam apenas informativas, mas também de fácil compreensão para os usuários finais. Minhas responsabilidades se alinham com as de um analista de dados, focando na transformação de dados brutos em insights estratégicos para a tomada de decisões.**
+- 💬 Sobre mim. Atuo como estagiário de BI, responsável por processos de ETL usando SQL, Python e Excel para garantir dados confiáveis. Desenvolvo dashboards interativos no Power BI, colaborando com a equipe para definir KPIs e criar visualizações claras que transformam dados em insights para decisões estratégicas.
 
 - 📫 Como me encontrar? **Lucas.Lopes_5@hotmail.com**
 
