@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Goku!</h1>
 
 <p align="center">
-  <img src="assets/goku.gif" alt="Goku" width="300" />
+  <img src="assets/goku1.gif" alt="Goku" width="300" />
 </p>
 
 <h2>Bom, eu não sou, mas você acreditou, né? Hahaha. Agora é hora de conhecer mais sobre mim e sobre meus projetos.</h2>
