@@ -6,7 +6,7 @@
 
 - 🌱 Meu foco está totalmente voltado para os estudos do universo de dados, com ênfase em Python, SQL, Excel, PySpark, Power BI, Docker, Figma, entre outras ferramentas.
 
-- 💬 Sobre mim. Atuo como estagiário de BI, responsável por processos de ETL usando SQL, Python e Excel para garantir dados confiáveis. Desenvolvo dashboards interativos no Power BI, colaborando com a equipe para definir KPIs e criar visualizações claras que transformam dados em insights para decisões estratégicas.
+- 💬 Sobre mim: Atuo como estagiário de BI, responsável por processos de ETL usando SQL, Python e Excel para garantir dados confiáveis. Desenvolvo dashboards interativos no Power BI, colaborando com a equipe para definir KPIs e criar visualizações claras que transformam dados em insights para decisões estratégicas.
 
 - 📄 Saiba mais um pouco sobre minhas experiências pelo LinkedIn [https://www.linkedin.com/in/lucas-dev-lopes/](https://www.linkedin.com/in/lucas-dev-lopes/)
 
