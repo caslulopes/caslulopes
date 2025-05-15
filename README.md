@@ -4,7 +4,8 @@
   <img src="assets/goku.gif" alt="Goku" width="300" />
 </p>
 
-<h2>Bom, eu não sou mais você acreditou né hahahaha, bom agora você vai descobrir mais sobre mim e sobre meus projetos.</h2>
+<h2>Bom, eu não sou, mas você acreditou, né? Hahaha. Agora é hora de conhecer mais sobre mim e sobre meus projetos.</h2>
+
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
 
 - 🔭 Atualmente trabalho com BI e Análise de Dados. 
