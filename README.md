@@ -1,12 +1,8 @@
 <h1 align="center">Oi, eu sou o Goku!</h1>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="assets/goku.gif" alt="Goku" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/goku.gif" alt="Goku" width="300" />
+</p>
 
 <h2>Bom, eu não sou mais você acreditou né hahahaha, bom agora você vai descobrir mais sobre mim e sobre meus projetos.</h2>
 <h3 align="center">Sou guiado por dados, estudo com frequência e busco constantemente as melhores formas de inovar, otimizar processos e gerar resultados mensuráveis.</h3>
